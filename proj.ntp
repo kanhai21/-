@@ -1,0 +1,146 @@
+{
+  "name": "未命名",
+  "audio_path": "E:/视频/测试/测试.MP3",
+  "srt_path": "E:/视频/测试/测试.srt",
+  "role_cards": [],
+  "scenes": [
+    {
+      "duration": 4.37,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_1_1770923654803.png",
+        "D:\\CODE\\xiaoshuotuiwen\\assets\\shot_11_1a01dba3.png",
+        "D:/CODE/xiaoshuotuiwen\\assets\\shot_2_f7cf574d.png"
+      ],
+      "index": 1,
+      "prompt": "[CN]: 主角坐在昏暗的电脑前，面部被屏幕蓝光照亮，眉头紧锁，眼神愤怒，盯着直播间弹幕。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), sitting in dark room, face illuminated by screen glow, frowning, angry eyes, staring at computer monitor, cyberpunk lighting",
+      "selected_image_index": 2,
+      "status": "等待处理",
+      "text": "全服第一的土豪大哥在直播间挑衅扬言要用钱砸死我抢走我的主播",
+      "roles": [
+        "主角"
+      ],
+      "sub_ids": [
+        1
+      ]
+    },
+    {
+      "duration": 3.43,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_2_1770923659594.png"
+      ],
+      "index": 2,
+      "prompt": "[CN]: 主角嘴角上扬露出一丝冷笑，手指重重按下回车键，屏幕上炸开金色的礼物特效，光芒映在脸上。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), sneering, smirk, hitting enter key, explosion of golden digital effects on screen, bright light reflection, dynamic angle",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "我冷笑一声反手充了100万把直播间炸的卡顿了三分钟",
+      "roles": [
+        "主角"
+      ],
+      "sub_ids": [
+        2
+      ]
+    },
+    {
+      "duration": 4.3,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_3_1770923663719.png"
+      ],
+      "index": 3,
+      "prompt": "[CN]: 主角靠在椅背上，双手抱胸，神情不屑，背景是满屏滚动的嘲讽弹幕，特写面部表情。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), leaning back in chair, arms crossed, disdainful expression, arrogant, background screen with scrolling text, close up face",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "所有人都在等着主播跪舔新榜一那个大哥更是嚣张的让我滚出直播间",
+      "roles": [
+        "主角"
+      ],
+      "sub_ids": [
+        3
+      ]
+    },
+    {
+      "duration": 4.5,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_4_1770923667920.png"
+      ],
+      "index": 4,
+      "prompt": "[CN]: 第一人称视角或侧拍，主角手持手机，屏幕显示微信转账界面和求饶的聊天记录，背景虚化。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), holding smartphone, focus on phone screen, social media chat interface, money transfer details, depth of field",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "可他们没人知道主播私下里把收益连本带利转给了我还发微信求我别刷了",
+      "roles": [
+        "主角"
+      ],
+      "sub_ids": [
+        4
+      ]
+    },
+    {
+      "duration": 3.83,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_5_1770923672909.png"
+      ],
+      "index": 5,
+      "prompt": "[CN]: 大学宿舍内，室友强行拉着主角的手臂往外走，主角一脸不情愿回头看电脑，肢体冲突感。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), 2boys, inside college dorm, roommate pulling protagonist arm, dragging him away, reluctant expression, dynamic pose, messy room background",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "我气不过正准备再刷100个嘉年华我被舍友强拉去食堂吃夜宵",
+      "roles": [
+        "主角",
+        "室友"
+      ],
+      "sub_ids": [
+        5
+      ]
+    },
+    {
+      "duration": 6.84,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_6_1770923676972.png"
+      ],
+      "index": 6,
+      "prompt": "[CN]: 喧闹的食堂角落，沈玉独自静坐，侧脸棱角分明，气质清冷高贵，仿佛自带聚光灯。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), Shen Yu, sharp side profile, sitting alone in cafeteria corner, cold and elegant temperament, cinematic lighting, contrast with crowded background",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "一进门就看到了沈玉挺拔的身姿棱角分明的侧脸哪怕只是静静坐在角落周围的空气都仿佛比别处贵了几分",
+      "roles": [
+        "沈玉"
+      ],
+      "sub_ids": [
+        6
+      ]
+    },
+    {
+      "duration": 2.36,
+      "images": [
+        "D:\\CODE\\小说推文\\output_images\\shot_7_1770923681009.png"
+      ],
+      "index": 7,
+      "prompt": "[CN]: 主角和室友鬼鬼祟祟地坐在沈玉后桌，弯腰低头，前景是主角二人，后景是沈玉挺拔的背影。\n\n[EN]: (masterpiece, best quality, 8k), (1boy, male focus, masculine:1.3), 3boys, foreground protagonist and roommate sneaking, sitting behind someone, hunched over, background focus on Shen Yu straight back, shallow depth of field",
+      "selected_image_index": 0,
+      "status": "等待处理",
+      "text": "我们鬼鬼祟祟的摸到他后桌坐下刚落座",
+      "roles": [
+        "主角",
+        "室友",
+        "沈玉"
+      ],
+      "sub_ids": [
+        7
+      ]
+    }
+  ],
+  "keyframe_settings": {
+    "start_scale": 149,
+    "start_x": 0,
+    "start_y": 200,
+    "end_scale": 149,
+    "end_x": 0,
+    "end_y": -200,
+    "random_direction": true,
+    "preset_mode": "vertical",
+    "use_custom_pan": false
+  },
+  "custom_prompt_template": "你是一位电影分镜大师和 Stable Diffusion 提示词专家。\n请根据【角色设定】和【剧情列表】，为**每一个镜头**推理出绘图提示词。\n\n【已知角色设定】：\n{ROLES}\n\n【核心任务】：\n1. **角色自动匹配**：分析剧情，判断当前镜头出现了哪些【角色设定】中的角色，返回角色名列表。\n2. **中英文对照输出**：\n   - **中文描述**：用简练的中文描述画面构图、动作、环境、氛围（方便用户校验）。\n   - **英文Prompt**：标准的 Stable Diffusion 英文提示词，起手式包含 `(masterpiece, best quality, 8k)`。\n3. **性别特征强化**：\n   - 如果角色是男性，Prompt 开头必须包含 `(1boy, male focus, masculine:1.3)`。\n   - 如果角色是女性，Prompt 开头必须包含 `(1girl, female focus:1.3)`。\n4. **格式**：纯 JSON 列表返回，必须包含 `index`, `roles` (列表), `prompt_zh` (中文描述), `prompt_en` (英文提示词)。\n\n【JSON 输出示例】：\n[\n  {{\n    \"index\": 1, \n    \"roles\": [\"林萧\"], \n    \"prompt_zh\": \"林萧站在雨中，神情冷峻，穿着黑色西装，雨水打湿了头发，背景是昏暗的街道，电影感光效。\",\n    \"prompt_en\": \"(masterpiece, 8k), (1boy, male focus, masculine:1.3), short black hair, sharp jawline, wearing suit, standing in rain, cinematic lighting, dim street background\"\n  }}\n]\n\n【待处理剧情列表（第 {batch_num} 批）】：\n{SCENES}",
+  "workflow_file": "",
+  "export_settings": {}
+}

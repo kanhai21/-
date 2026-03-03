@@ -1,0 +1,26 @@
+# Python 运行产生的缓存垃圾
+__pycache__/
+*.pyc
+
+# 软件运行生成的临时图片和日志
+temp_gen/
+error_crash.log
+
+# 本地大型 AI 模型 (GitHub 限制单文件最大 100MB，传模型一定会报错卡死)
+models/
+*.pth
+*.safetensors
+
+# 虚拟环境 (如果您本地用了 venv)
+venv/venv/ 
+.venv/ 
+env/ 
+__pycache__/ 
+temp_gen/ 
+models/ 
+venv/ 
+*.exe 
+*.zip 
+*.rar 
+*.mp4 
+*.dll 

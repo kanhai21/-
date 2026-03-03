@@ -1,0 +1,9 @@
+PyQt6
+requests
+google-genai
+uuid
+websocket-client
+pysrt
+Pillow
+opencv-python
+mutagen

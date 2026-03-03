@@ -1,0 +1,24 @@
+# 小说推文全自动工厂 - 最小启动配置
+
+llm:
+  type: mock                 # 使用模拟分镜，无需 API Key
+
+comfyui:
+  mode: local
+  local_url: "http://127.0.0.1:8188"
+  cloud_url: ""
+  api_key: ""
+  default_workflow: ""
+
+jianying:
+  draft_folder: ""          # 留空，用到时再填
+  template_name: "小说推文模板_5.9"
+
+tts:
+  voice: "zh-CN-XiaoxiaoNeural"
+  rate: "+0%"
+  volume: "+0%"
+
+autosave:
+  interval: 300
+  enabled: true

@@ -1,0 +1,48 @@
+{
+  "all_draft_store": [
+    {
+      "draft_id": "272B1971-33BB-47DB-9F05-97CB67E95724",
+      "draft_name": "测试",
+      "draft_new_version": "5.9.0",
+      "tm_draft_create": 1771313299186113,
+      "tm_draft_modified": 1771313299186113,
+      "tm_duration": 29633333,
+      "draft_cover": "D:\\CODE\\小说推文\\测试\\cover.png",
+      "draft_root_path": "D:\\CODE\\小说推文",
+      "draft_fold_path": "D:\\CODE\\小说推文\\测试"
+    },
+    {
+      "draft_id": "229899BD-B1FC-44EA-AB38-65996F070B18",
+      "draft_name": "测试",
+      "draft_new_version": "5.9.0",
+      "tm_draft_create": 1771313125173328,
+      "tm_draft_modified": 1771313125173328,
+      "tm_duration": 29633333,
+      "draft_cover": "D:\\CODE\\小说推文\\测试\\cover.png",
+      "draft_root_path": "D:\\CODE\\小说推文",
+      "draft_fold_path": "D:\\CODE\\小说推文\\测试"
+    },
+    {
+      "draft_id": "46D78F31-D124-4056-8A4E-34B9953740F8",
+      "draft_name": "1",
+      "draft_new_version": "5.9.0",
+      "tm_draft_create": 1771257655675663,
+      "tm_draft_modified": 1771257655675663,
+      "tm_duration": 29666666,
+      "draft_cover": "cover.png",
+      "draft_root_path": "D:\\CODE\\小说推文",
+      "draft_fold_path": "D:\\CODE\\小说推文\\1"
+    },
+    {
+      "draft_id": "09623B04-B448-45E9-B94F-78C4CEEAA8B7",
+      "draft_name": "1",
+      "draft_new_version": "5.9.0",
+      "tm_draft_create": 1771254079469830,
+      "tm_draft_modified": 1771254079469830,
+      "tm_duration": 29666666,
+      "draft_cover": "cover.png",
+      "draft_root_path": "D:\\CODE\\小说推文",
+      "draft_fold_path": "D:\\CODE\\小说推文\\1"
+    }
+  ]
+}
